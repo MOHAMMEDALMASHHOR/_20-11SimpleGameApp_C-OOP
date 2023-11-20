@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\GameApp\bin\Debug\net7.0\GameApp.exe
+C:\Users\Lenovo\Desktop\GameApp\bin\Debug\net7.0\GameApp.deps.json
+C:\Users\Lenovo\Desktop\GameApp\bin\Debug\net7.0\GameApp.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GameApp\bin\Debug\net7.0\GameApp.dll
+C:\Users\Lenovo\Desktop\GameApp\bin\Debug\net7.0\GameApp.pdb
+C:\Users\Lenovo\Desktop\GameApp\obj\Debug\net7.0\GameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GameApp\obj\Debug\net7.0\GameApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GameApp\obj\Debug\net7.0\GameApp.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GameApp\obj\Debug\net7.0\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GameApp\obj\Debug\net7.0\GameApp.dll
+C:\Users\Lenovo\Desktop\GameApp\obj\Debug\net7.0\refint\GameApp.dll
+C:\Users\Lenovo\Desktop\GameApp\obj\Debug\net7.0\GameApp.pdb
+C:\Users\Lenovo\Desktop\GameApp\obj\Debug\net7.0\GameApp.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GameApp\obj\Debug\net7.0\ref\GameApp.dll
